@@ -1,4 +1,1 @@
-Joshua = Cambridge
-Kent = Beck
-Eric = Freeman
-Elisabeth = Robson
+Joshua = Cambridge,Kent = Beck,Eric = Freeman,Elisabeth = Robson
